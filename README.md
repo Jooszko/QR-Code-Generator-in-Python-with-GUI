@@ -10,6 +10,6 @@
     pip install pysimpleguiqt
     ```
 
-# Useful tools to work with app for developers
+## Useful tools to work with app for developers
 - Code edit - PyCharm: https://www.jetbrains.com/pycharm/
 - Development workflow - Github Desktop: https://desktop.github.com/
